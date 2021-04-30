@@ -1,7 +1,7 @@
 # EmployeeRepository
 
 <div>
-<h1>Employee Repository (JPA) </h1>
+<h1>This project was made using Java and the framework SpringBoot + JPA + H2(DataBase)</h1>
 
 ![image](https://user-images.githubusercontent.com/64970716/116724368-f71dcf00-a9b6-11eb-8172-2c7f389b5ab9.png)
 
