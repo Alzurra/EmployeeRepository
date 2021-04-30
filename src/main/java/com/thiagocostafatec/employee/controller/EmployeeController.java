@@ -37,7 +37,7 @@ public class EmployeeController {
 
 	}
 
-	@PostMapping(value = "/cadastrar")
+	@PostMapping("/cadastrar")
 	public ResponseEntity<EmployeeModel> post(@RequestBody EmployeeModel Employee) {
 
 		try {
